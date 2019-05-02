@@ -21,8 +21,6 @@ The goals / steps of this project are the following:
 [image2]: ./writeup_images/normalized_gray.png "Grayscaling"
 [image3]: ./writeup_images/newsigns.png "NewSigns"
 
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
 ---
 ### Writeup / README
