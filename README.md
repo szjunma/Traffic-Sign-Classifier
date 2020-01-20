@@ -1,16 +1,19 @@
 # **Traffic Sign Recognition**
 
-## Summary
 
+**Still underdevelopment**
 ---
 
-**Build a Traffic Sign Recognition Project with Tensorflow 2.0**
+**Build a Traffic Sign Recognition Project with TensorFlow 2.0**
 
+More examples can be found at [TensorFlow tutorials](https://www.tensorflow.org/tutorials/images/cnn)
 
+Raw data from Kaggle: [GTSRB - German Traffic Sign Recognition Benchmark](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+Each image in raw downloaded data has different size, thus they were processed to have a consistent shape. After processes including: resizing, splitting into training and validation, conversion to grayscale and normalization.
 * Number of training examples = 31367
 * Number of validation examples = 7842
 * Number of testing examples = 12630
-* Image data shape = (32, 32, 3)
+* Image data shape = (32, 32, 1)
 * Number of classes = 43
 
 
