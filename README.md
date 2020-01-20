@@ -4,7 +4,7 @@
 
 ---
 
-**Build a Traffic Sign Recognition Project**
+**Build a Traffic Sign Recognition Project with Tensorflow 2.0**
 
 
 * Number of training examples = 31367
@@ -33,5 +33,5 @@ My final model consisted of the following layers:
 
 
 My final model results were:
-* validation set accuracy of ~ 0.95
-* test set accuracy of ~ 0.93
+* validation set accuracy of ~ 0.96
+* test set accuracy of ~ 0.92
